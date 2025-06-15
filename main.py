@@ -1,3 +1,7 @@
+#how to run this code 
+# go to path of the file and type "cmd" and after opening the terminal
+# type  "uv run streamlit run main.py"
+
 import cv2
 import numpy as np
 import streamlit as st
